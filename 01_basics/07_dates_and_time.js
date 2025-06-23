@@ -34,6 +34,7 @@ console.log(newdate.getDay());
 console.log(newdate.getMonth() + 1);
 //NOTE!  as it takes from 0 by default
 console.log(newdate.getHours());
-////console.log(newdate.getMonth(.toString()));
+console.log(newdate.getMonth());
+
 
 
