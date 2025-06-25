@@ -1,4 +1,4 @@
-// PRIMITIVE
+//**************/ PRIMITIVE**************
 // 7 types : String, Number, Boolean, Null, undefined, 
 // Symbol(use for making value unique), BigInt
 
@@ -19,7 +19,7 @@
 
 
 
-// REFERENCE (Non primitive)
+//************REFERENCE (Non primitive)***************
 // Array, Objects, Functions
 
 
