@@ -5,7 +5,7 @@ const course = {
     courseTeacher : "shari",
 }
 
-console.log(course.coursename);      //good and right syntax 
+console.log(course.coursename);      //good and right syntax  but
 
 const {coursename} = course
 console.log(coursename);            //this syntax is much better

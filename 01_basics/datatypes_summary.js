@@ -20,7 +20,13 @@
 
 
 //************REFERENCE (Non primitive)***************
-// Array, Objects, Functions
+// Objects
+
+
+// Array and Function are non-primitive data types in JavaScript.
+// More precisely, they are special kinds of objects:
+// Arrays are objects optimized to store ordered lists.
+// Functions are callable objects that can be invoked.
 
 
 //const heros = ["shaktiman", "naagraj", "doga"];             //Array
